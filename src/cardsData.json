@@ -1,0 +1,46 @@
+
+[
+    {
+      "title": "Mes bilans",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "bilan.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/mesbilans"
+    },
+    {
+      "title": "Prendre consultation",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "consultation.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/trancheage"
+    },
+    {
+      "title": "Prendre rendez-vous",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "rendezvous.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/calendrier"
+    },
+    {
+      "title": "Quiz",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "quiz.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/quiz"
+    },
+    {
+      "title": "Ma balance",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "balance.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/balance"
+    },
+    {
+      "title": "Mes patients",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "consultations.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/mespatients"
+    }
+  ]
+  

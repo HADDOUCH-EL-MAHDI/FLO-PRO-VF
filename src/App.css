@@ -1,0 +1,32 @@
+/* ================== Calendrier css ======================== */
+.rbc-time-header-gutter {
+    background-color: #607d8b; /* Couleur rouge */
+  }
+  
+  .rbc-time-gutter .rbc-timeslot-group {
+    background-color: #607d8b; 
+  }
+  
+  .rbc-time-gutter {
+    background-color: #607d8b;
+    color: #FFFFFF; 
+  }
+  
+  /* Change the background color of the header (days of the week) */
+.rbc-time-header .rbc-header {
+    background-color: #607d8b; 
+  }
+
+  /* Cibler la barre de navigation du calendrier */
+.rbc-toolbar {
+    background-color: #FF3399;
+    color: #FFFFFF;
+  }
+  
+  /* Cibler les boutons individuellement si nécessaire */
+  .rbc-toolbar button {
+    background-color: blue; 
+    color: white;
+    border-color: #607d8b;
+  }
+  

@@ -1,0 +1,26 @@
+
+[
+    {
+      "title": "Mon Calendrier",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "calendrier.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/moncalendrierinfirmier"
+    },
+    
+    {
+      "title": "Mes notifications",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "notification.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/notifications"
+    },       
+    {
+      "title": "Mes patients",
+      "description": "Lizards are a widespread group of squamate reptiles, with over",
+      "image": "consultations.png",
+      "buttonText": "Consulter",
+      "buttonLink": "/mespatients"
+    }
+  ]
+  
